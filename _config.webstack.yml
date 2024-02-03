@@ -102,7 +102,10 @@ hotTools:
     url: https://sms-bus.com/
     img: https://sms-bus.com/favicon.ico
     description: 虚拟号码服务
-  
+  - name: picx
+    url: https://picx.xpoet.cn/
+    img: https://picx.xpoet.cn/logo.png
+    description: 好用的全自动构建github图床工具
     
 #开发工具
 devTools:
