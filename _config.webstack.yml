@@ -135,6 +135,45 @@ aiTools:
     url: https://www.midjourney.com/home?callbackUrl=%2Fexplore
     img: https://www.midjourney.com/favicon-32x32.png
     description: 目前最强的ai绘画工具
+
+# Analysis
+
+
+# Baidu Analytics
+# https://tongji.baidu.com/web/welcome/login
+baidu_analytics:
+
+# Google Analytics
+# https://analytics.google.com/analytics/web/
+google_analytics: G-JF6HGZKQE9
+
+# Cloudflare Analytics
+# https://www.cloudflare.com/zh-tw/web-analytics/
+cloudflare_analytics:
+
+# Microsoft Clarity
+# https://clarity.microsoft.com/
+microsoft_clarity:
+
+# Advertisement
+# --------------------------------------
+
+# Google Adsense (谷歌廣告)
+google_adsense:
+  enable: true
+  auto_ads: true
+  js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+  client: ca-pub-9555136258724083
+  enable_page_level_ads: true
+
+# Insert ads manually (手動插入廣告)
+# ad:
+#   index:
+#   aside:
+#   post:
+
+# Verification (站長驗證)
+# --------------------------------------
   
   
 
