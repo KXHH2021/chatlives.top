@@ -201,6 +201,18 @@ FriendlyLink:
     url: https://www.xiaopengw.com/
     img: https://www.xiaopengw.com/wp-content/uploads/2023/07/cropped-xiaopengwlogo-1-32x32.png
     description: 内容齐全
+  - name: "kxhh的博客"
+    link: "https://cfra.top"
+    avatar: "https://raw.githubusercontent.com/KXHH2021/seveimg/main/img/202310042322782.jpg"
+    descr: "一个菜鸟的技术博客。"
+  - name: "The Game Institute游戏研究社"
+    link: "https://www.dazhuangcn.top/"
+    avatar: "https://s2.loli.net/2024/03/08/Xo9KDnhpOQsaE8m.png"
+    descr: "好玩的游戏分析，有趣的人生"
+  - name: "TaiDuo爱玩游戏网"
+    link: "https://www.taiduole.com/"
+    avatar: "https://s2.loli.net/2024/03/08/kmL95zX12SCDVPl.png"
+    descr: "TaiDuo爱玩游戏网"    
 
 about:
   url: /about/
