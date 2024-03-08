@@ -75,6 +75,13 @@ testPage:
     img: https://www.bilibili.com/favicon.ico?v=1
     description: bilibili-干杯
 
+# 影视资源
+movie:
+  - name: 大雨 (2024)国语中字4K 2160p
+    url: https://pan.quark.cn/s/0d69fe0649d5#/list/share
+    img: https://www.xbwpys.com/wp-content/uploads/2024/03/%E5%A4%A7%E9%9B%A8-2024%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%971080p.jpg
+    description: 大雨 (2024)国语中字4K 2160p下载连接  沉没多年古船离奇现世，男孩馒头意外闯入，却发现船上聚集着诸多亡魂……一场大雨过后，“蝼蚁”重生，命运会有改变吗？
+
 #常用工具
 hotTools:
   - name: Namesilo
